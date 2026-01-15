@@ -1,6 +1,6 @@
 
 # MT-Parsee
-An MT5-trade-report.xlsx file parser constructs statistical graphs for clear visualization of the trading strategy performance. For demonstration, it handles 71,478 cells dataframe to generate 76 rolling trading metrics and graphs with consideration. Drop the xlsx file once — then let the bot do the rest.
+An MT5-trade-report.xlsx file parser constructs statistical graphs for clear visualization of the trading strategy performance. For demonstration, it handles 71,478 cells dataframe to generate 76 rolling trading metrics and graphs with [consideration](https://github.com/algorembrant/MTParsee/blob/main/metrics_consideration.pdf). Drop the xlsx file once — then let the bot do the rest.
 
 
 
