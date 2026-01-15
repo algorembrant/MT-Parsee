@@ -28,9 +28,9 @@ A simple MT5 trade-report xlsx file parser and turn into 76 trading metrics
 │   │   |   ├── 7_layer_output.csv  # example file 
 │   │   |   ├── 8_layer_output.csv  # example file
 │   │   |   └── 9_layer_output.csv  # example file
-│       ├── Upload-2_ID/             # This is where the parsed file for second uploaded file
-│       ├── Upload-3_ID/             # This is where the parsed file for third uploaded file
-│       └── Upload-4_ID/            # and so on, the pattern goes infinite
+│   │   ├── Upload-2_ID/             # This is where the parsed file for second uploaded file
+│   │   ├── Upload-3_ID/             # This is where the parsed file for third uploaded file
+│   │   └── Upload-4_ID/            # and so on, the pattern goes infinite
 
 ```
 
@@ -45,6 +45,8 @@ A simple MT5 trade-report xlsx file parser and turn into 76 trading metrics
 
 ## All 76 Trading metrics
 
+<img width="1662" height="1000000" alt="newplot" src="https://github.com/user-attachments/assets/9ebb5461-957a-4042-9c5b-e9ca2fd58654" />
+yeap, the image is so large that GitHub can't handle it. Kindly open this file instead
 
 
 
