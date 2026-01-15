@@ -4,7 +4,11 @@ An `MT5-trade-report.xlsx` file parser constructs statistical graphs for clear v
 
 
 
-https://github.com/user-attachments/assets/a230d91e-494a-4572-96cd-1400fd47aff4
+
+https://github.com/user-attachments/assets/92a9049a-1948-49ed-b96b-75366a9f5b74
+
+
+
 
 
 
