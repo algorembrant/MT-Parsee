@@ -50,7 +50,8 @@ An `MT5-trade-report.xlsx` file parser constructs statistical graphs for clear v
 ![file](https://github.com/algorembrant/MTPRS/blob/main/newplot.png)
 
 ## Citation
-```
+
+```bibtex
 @misc{MTParsee,
   author = {Albeos, Rembrant},
   title = {{MTParsee}},
