@@ -1,0 +1,9 @@
+pandas 
+numpy
+openpyxl
+pathlib
+os
+plotly
+scipy
+matplotlib
+watchdog
